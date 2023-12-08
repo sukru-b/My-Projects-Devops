@@ -1,0 +1,8 @@
+#VS Code
+.factorypath
+.project
+
+# Terraform
+**/.terraform/
+.terraform*
+terraform.*
